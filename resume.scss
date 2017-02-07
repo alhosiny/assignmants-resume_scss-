@@ -49,13 +49,9 @@ header{
     width: 45%;
 }
 .skills{
-    @extends .contact;
+    @extend .contact;
     width: 45%;
 }
 .sign{
     border-left: 2px solid black;
 }
-/*
-@media (max-width:1170px){
-     
-}*/
