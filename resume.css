@@ -1,0 +1,53 @@
+body {
+  margin: 0 auto;
+  padding: 3%; }
+
+h2 {
+  color: #2023AA; }
+
+p, ul {
+  color: #5523AF; }
+
+.contact {
+  float: right; }
+
+.id {
+  float: left; }
+
+.id_image {
+  float: left;
+  margin: 0 0 0 30%; }
+
+.imag_attribute {
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 100%;
+  text-align: center; }
+
+li img {
+  height: 20px;
+  width: 20px; }
+li a {
+  text-decoration: initial; }
+
+header {
+  border-bottom: 1px solid black;
+  overflow: hidden; }
+
+.education {
+  float: left;
+  width: 45%; }
+
+.skills {
+  float: right;
+  width: 45%; }
+
+.sign {
+  border-left: 2px solid black; }
+
+/*
+@media (max-width:1170px){
+     
+}*/
+
+/*# sourceMappingURL=resume.css.map */
