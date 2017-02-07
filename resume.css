@@ -6,16 +6,15 @@ h2 {
   color: #2023AA; }
 
 p, ul {
-  color: #5523AF; }
+  color: #2023AA; }
 
-.contact {
+.contact, .skills {
   float: right; }
 
-.id {
+.id, .id_image, .education {
   float: left; }
 
 .id_image {
-  float: left;
   margin: 0 0 0 30%; }
 
 .imag_attribute {
@@ -35,19 +34,12 @@ header {
   overflow: hidden; }
 
 .education {
-  float: left;
   width: 45%; }
 
 .skills {
-  float: right;
   width: 45%; }
 
 .sign {
   border-left: 2px solid black; }
-
-/*
-@media (max-width:1170px){
-     
-}*/
 
 /*# sourceMappingURL=resume.css.map */
